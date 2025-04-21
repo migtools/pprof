@@ -1,9 +1,0 @@
-# github.com/chzyer/readline v1.5.1
-## explicit; go 1.15
-github.com/chzyer/readline
-# github.com/ianlancetaylor/demangle v0.0.0-20240312041847-bd984b5ce465
-## explicit; go 1.13
-github.com/ianlancetaylor/demangle
-# golang.org/x/sys v0.6.0
-## explicit; go 1.17
-golang.org/x/sys/unix
